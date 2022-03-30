@@ -5,5 +5,5 @@
 
 
 
-본 모델의 마지막 부분인 **XTransformer  이후 파트(XTransformer 아키텍처 + 전반적인 학습 흐름)**는 [Pan et al](https://github.com/JDAI-CV/image-captioning)의 코드를 참고했습니다.  
-즉, 
+본 모델에서 **[XTransformer 아키텍처 -> 학습]** 파트는 [Pan et al](https://github.com/JDAI-CV/image-captioning)의 코드를 참고했습니다.  
+이를 End-to-End 방식으로 확
