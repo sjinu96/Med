@@ -1,9 +1,14 @@
 # End-to-End Medical Image Captioning
 
+[Report(Written in Korean)](https://www.notion.so/sjinu/End-to-End-Medical-Image-Captioning-63f3fa7dc9be45dea3b8aa664890f123)
 ## Architecture
 
+<img width="1138" alt="image" src="https://user-images.githubusercontent.com/71121461/160956787-d2bd9d8c-1ebf-41ea-bbe8-3488422d7b9d.png">
 
 
 
-본 모델에서 **[XTransformer 아키텍처 -> 학습]** 파트는 [Pan et al](https://github.com/JDAI-CV/image-captioning)의 코드를 참고했습니다.  
-이를 End-to-End 방식으로 확
+**DeXTr** :   
+**Visual Encoder** : 
+**Feature Difference** :  
+**Language Model(+Training)** :  [Code by Pan et al.](https://github.com/JDAI-CV/image-captioning)
+
